@@ -19,7 +19,7 @@ Atlas Works Studio
   - Experimental builds
 
 - Media
-  - Streaming (Twitch)
+  - Streaming (Twitch) — SageMageLive
   - Video content (YouTube)
   - Music & creative output
   - Literature & philosophy
