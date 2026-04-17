@@ -4,7 +4,7 @@ The Learning branch supports reflection, adaptation, and long-term growth.
 
 ---
 
-## 🧠 Focus
+## 🎯 Focus Areas
 
 - reviewing work patterns
 - learning new tools
@@ -13,7 +13,7 @@ The Learning branch supports reflection, adaptation, and long-term growth.
 
 ---
 
-## 📊 Current Learning Areas
+## 📊 Current State
 
 - productivity systems (Sheets, tracking)
 - media creation workflows
