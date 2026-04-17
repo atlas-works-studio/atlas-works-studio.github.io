@@ -2,11 +2,24 @@
 
 Media is the expressive layer of Atlas Works Studio.
 
+---
+
+## 🧱 Focus Areas
+
+- Live streaming and gaming (SageMageLive)
+- Reflection and sense-making (Stillpoint)
+- Knowledge and literature (Codex Haven)
+- Creative experimentation (ForgeFlow)
+- System-wide communication (Atlas Dispatch)
+
+---
+## 📊 Current Media 
+
 It is not a single channel—it is a system of creative spaces.
 
 ---
 
-## 🎮 SageMageLive (Live Play)
+### 🎮 SageMageLive (Live Play)
 
 Live streaming and gaming content.
 
@@ -18,7 +31,7 @@ Live streaming and gaming content.
 
 ---
 
-## 🧠 Stillpoint (Reflection)
+### 🧠 Stillpoint (Reflection)
 
 Post-session reflection and systems thinking.
 
@@ -30,7 +43,7 @@ Post-session reflection and systems thinking.
 
 ---
 
-## 📚 Codex Haven (Archive / Library)
+### 📚 Codex Haven (Archive / Library)
 
 A structured space for knowledge, literature, and philosophy.
 
@@ -42,7 +55,7 @@ A structured space for knowledge, literature, and philosophy.
 
 ---
 
-## 🔥 ForgeFlow (Creative Lab)
+### 🔥 ForgeFlow (Creative Lab)
 
 A flexible space for creative exploration and experimentation.
 
@@ -54,7 +67,7 @@ A flexible space for creative exploration and experimentation.
 
 ---
 
-## 🌐 Atlas Dispatch (Broadcast Layer)
+### 🌐 Atlas Dispatch (Broadcast Layer)
 
 The communication and meta layer of Atlas Works Studio.
 
@@ -66,25 +79,13 @@ The communication and meta layer of Atlas Works Studio.
 
 ---
 
-## 🔁 Media Flow
 
-```mermaid
-graph TD
-    A[SageMageLive] --> B[Stillpoint]
-    B --> C[Atlas Dispatch]
-    C --> A
+## 🔁 Philosophy
 
-    B --> D[Codex Haven]
-    D --> C
+Media is not a content pipeline—it is a feedback system.
 
-    A --> E[ForgeFlow]
-    E --> B
-```
+Each expression feeds reflection, which feeds memory, which feeds creation.
+
+The goal is not volume, but **compounding clarity through iteration**.
 
 ---
-
-## 🧭 Notes
-
-Only one or two branches are typically active at a time.
-
-The system evolves through rotation, reflection, and iteration.
