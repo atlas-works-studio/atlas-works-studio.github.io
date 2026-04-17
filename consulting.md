@@ -4,7 +4,7 @@ The Consulting branch represents applied technical and systems work.
 
 ---
 
-## 💼 Focus
+## 🎯 Focus Areas
 
 - software consulting
 - systems design
@@ -13,7 +13,7 @@ The Consulting branch represents applied technical and systems work.
 
 ---
 
-## 🧭 Early Stage Direction
+## 📊 Current State
 
 This branch is currently in exploration mode:
 
