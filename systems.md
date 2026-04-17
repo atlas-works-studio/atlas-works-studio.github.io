@@ -4,7 +4,7 @@ The Systems branch builds the infrastructure of Atlas Works Studio.
 
 ---
 
-## 🧱 Focus Areas
+## 🎯 Focus Areas
 
 - workflow automation
 - internal tools
@@ -14,7 +14,7 @@ The Systems branch builds the infrastructure of Atlas Works Studio.
 
 ---
 
-## 📊 Current Systems
+## 📊 Current State
 
 - Daily Log tracking system
 - Weekly summary automation
