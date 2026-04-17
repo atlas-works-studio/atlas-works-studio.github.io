@@ -6,66 +6,85 @@ It is not a single channel—it is a system of creative spaces.
 
 ---
 
-## 🎮 Live Play (SageMageLive)
+## 🎮 SageMageLive (Live Play)
 
-- live gaming streams
+Live streaming and gaming content.
+
 - real-time interaction
 - exploration through play
+- immediate feedback
 
-**Role:** Live feedback engine
-
----
-
-## 🧠 Reflection Studio
-
-- post-stream reflections
-- systems thinking
-- short-form commentary
-
-**Role:** Turns experience into insight
+**Role:** Experience engine
 
 ---
 
-## 📚 Archive / Library
+## 🧠 Stillpoint (Reflection)
+
+Post-session reflection and systems thinking.
+
+- stream debriefs
+- observations and insights
+- pattern recognition
+
+**Role:** Turns experience into understanding
+
+---
+
+## 📚 Codex Haven (Archive / Library)
+
+A structured space for knowledge, literature, and philosophy.
 
 - books of the month
-- philosophy notes
-- structured learning summaries
+- written reflections
+- idea storage
 
-**Role:** Slow knowledge layer
-
----
-
-## 🎧 Creative Lab
-
-- music experimentation
-- sound design
-- ambient creation
-
-**Role:** Non-verbal expression space
+**Role:** Long-term knowledge and memory
 
 ---
 
-## 🌐 Atlas Broadcast Layer
+## 🔥 ForgeFlow (Creative Lab)
 
-- updates on Atlas Works Studio
-- meta commentary
-- cross-branch synthesis
+A flexible space for creative exploration and experimentation.
 
-**Role:** Connective tissue
+- audio, visual, and hybrid creation
+- prototypes and small experiments
+- unstructured creative sessions
+
+**Role:** Creation through exploration and flow
 
 ---
 
-## 🔁 Media System Flow
+## 🌐 Atlas Dispatch (Broadcast Layer)
+
+The communication and meta layer of Atlas Works Studio.
+
+- updates and announcements
+- cross-branch insights
+- system-level thinking
+
+**Role:** Connective and outward-facing layer
+
+---
+
+## 🔁 Media Flow
 
 ```mermaid
 graph TD
-    A[Live Play - SageMageLive] --> B[Reflection Studio]
-    B --> C[Atlas Broadcast Layer]
+    A[SageMageLive] --> B[Stillpoint]
+    B --> C[Atlas Dispatch]
     C --> A
 
-    B --> D[Archive / Library]
+    B --> D[Codex Haven]
     D --> C
 
-    A --> E[Creative Lab]
+    A --> E[ForgeFlow]
     E --> B
+```
+
+---
+
+## 🧭 Notes
+
+Only one or two branches are typically active at a time.
+
+The system evolves through rotation, reflection, and iteration.
