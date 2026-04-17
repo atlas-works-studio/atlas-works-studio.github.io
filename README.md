@@ -1,54 +1,52 @@
 # Atlas Works Studio
 
-*A technical and creative studio exploring systems across software, tools, and media.*
+*A systems-based umbrella for building, learning, consulting, and media creation.*
 
 ---
 
-## Structure
+## 🌐 Overview
 
-Atlas Works Studio
+Atlas Works Studio is an evolving system of interconnected branches:
 
-- Consulting
-  - Technical services
-  - Contracting
-  - System design
+- 🧠 Systems (tools, infrastructure, automation)
+- 💼 Consulting (applied technical work)
+- 🎭 Media (creative expression + content)
+- 🌱 Learning (reflection + meta-development)
 
-- Systems
-  - Tools & utilities
-  - Open source projects
-  - Experimental builds
-
-- Media
-  - Streaming (Twitch) — SageMageLive
-  - Video content (YouTube)
-  - Music & creative output
-  - Literature & philosophy
-
-- Learning
-  - Skill development
-  - Research & exploration
-  - Process refinement
+Each branch operates independently, but feeds the same ecosystem.
 
 ---
 
-## Philosophy
+## 🧭 Current Focus
 
-Atlas Works Studio exists to explore, build, and share systems across different mediums.
+Right now, Atlas is actively developing:
 
-Some work is practical.  
-Some is experimental.  
-Some is simply exploration made visible.
-
-All of it contributes to a growing body of meaningful work.
+- 🎮 Media branch (SageMageLive)
+- 🧠 Systems infrastructure (tracking + workflows)
 
 ---
 
-## Status
+## 📁 Branch Navigation
 
-Early stage — actively building and exploring.
+- [Media Branch](media.md)
+- [Systems Branch](systems.md)
+- [Consulting Branch](consulting.md)
+- [Learning Branch](learning.md)
 
 ---
 
-## Contact
+## 🧠 Philosophy
 
-atlasworksstudiollc@gmail.com
+Atlas Works Studio is not a company with fixed outputs.
+
+It is a **structured environment for exploration, building, and expression**, where:
+
+- Work becomes systemized
+- Creativity becomes repeatable
+- Learning becomes continuous
+
+---
+
+## 🔁 System Flow
+
+Experience → Reflection → System Improvement → Output → Repeat
